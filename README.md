@@ -1,6 +1,8 @@
 # OIBSIP_CalculatorApp
 A Basic Calculator Application Developed Using Java
 
+* Inspried from MIUI calculator App UI design
+
 ## 🚀 Technology Used
 
 * Calculator is build using Java
